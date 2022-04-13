@@ -1,1 +1,2 @@
+init
 # QiguangSong.github.io
